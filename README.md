@@ -7,4 +7,7 @@ Berikut link website https://busth.my.id
 bagi yg berminat untuk menggunakan source code ini silahkan dipergunakan dengan bijak, lebih baik mencantumkan link sumber yaitu https://github.com/busth
 <br>
 <br>
+Dengan senang hati apabila anda Berkontribusi untuk mengembangkan dan menyempurnakan Website ini.
+<br>
+<br>
 == Ngali Busthomi ==
